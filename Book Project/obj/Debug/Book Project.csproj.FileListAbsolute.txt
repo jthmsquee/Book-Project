@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Book Project\Book Project\bin\Debug\Book Project.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Book Project\Book Project\bin\Debug\Book Project.exe
+c:\users\owner\documents\visual studio 2015\Projects\Book Project\Book Project\bin\Debug\Book Project.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Book Project\Book Project\obj\Debug\Book Project.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Book Project\Book Project\obj\Debug\Book Project.exe
+c:\users\owner\documents\visual studio 2015\Projects\Book Project\Book Project\obj\Debug\Book Project.pdb
